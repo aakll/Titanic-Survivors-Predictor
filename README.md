@@ -37,7 +37,7 @@ The project is implemented in Python using **Jupyter Notebook** and is intended 
 While the accuracy is already promising, this project focuses on learning the workflow — **further optimization will be done in future updates**.
 
 ## 📈 Future Improvements
-- Perform additional feature engineering (e.g., family size grouping, cabin grouping).  
+- Perform additional feature engineering (e.g., family size grouping).  
 - Apply advanced hyperparameter tuning for all models.  
 - Try more ensemble methods like **Gradient Boosting** or **Stacking**.  
 - Improve data preprocessing steps.  
