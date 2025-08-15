@@ -9,7 +9,7 @@ The project is implemented in Python using **Jupyter Notebook** and is intended 
 - **pandas** – for data loading and manipulation  
 - **matplotlib / seaborn** – for data visualization  
 - **scikit-learn** – for model building and evaluation  
-- **xgboost** – for the XGBClassifier model  
+- classification models
 
 ## 🚀 How It Works
 1. Load the Titanic dataset (CSV file).  
@@ -25,7 +25,9 @@ The project is implemented in Python using **Jupyter Notebook** and is intended 
 
 ## 📂 Files in This Project
 - `titanicSurvivorsPredictor.ipynb` – The Jupyter Notebook containing all the code and analysis.  
-- `README.md` – This file.  
+- `README.md` – This file.
+- `xgb_model.joblib` - The model.
+- `Data` - The data used
 
 ## 📊 Current Results
 - **LogisticRegression**: 81.56% accuracy  
